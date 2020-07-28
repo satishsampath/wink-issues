@@ -1,2 +1,2 @@
 # wink-issues
-A place to report and collaborate on issues with Debugmode Wink
+A place to report and collaborate on issues with [Debugmode Wink](https://www.debugmode.com/wink/)
