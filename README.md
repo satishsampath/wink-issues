@@ -1,2 +1,2 @@
-# wink-issues
-A place to report and collaborate on issues with [Debugmode Wink](https://www.debugmode.com/wink/)
+# wink-release
+A place to download releases of [Debugmode Wink](https://www.debugmode.com/wink/) and report/collaborate on issues.
